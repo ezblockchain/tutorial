@@ -46,7 +46,7 @@ extensions = [
     'sphinx.ext.githubpages',	
 	'sphinx.ext.doctest',    
 	#'rst2pdf.pdfbuilder',
-    'sphinxcontrib.disqus',			# disqus 추가 -----------------------		
+    # 'sphinxcontrib.disqus',			# disqus 추가 -----------------------		
     #'sphinxcontrib.plantuml',       # plantuml 추가 ---------------------
     'matplotlib.sphinxext.only_directives', # 추가 ---------------------
     'matplotlib.sphinxext.plot_directive',  # 추가 ---------------------
