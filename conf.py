@@ -59,9 +59,9 @@ source_suffix = ['.rst', '.txt']
 master_doc = 'index'
 
 # General information about the project.
-project = 'ProLecture'
+project = 'Blockchain'
 copyright = '2017, JongYun Jung'
-author = 'algocoding.net_at_gmail.com'
+author = 'ezblockchain@gmail.com'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
